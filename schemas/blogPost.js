@@ -11,7 +11,12 @@ export default {
         {
             title: 'Slug',
             name: 'slug',
-            type: 'slug'
+            type: 'slug',
+            options: {
+                source: 'title',
+                maxLength: 150,
+                slugify: title => title.toLowerCase().split(' ').join('-')
+            }
         },
         {
             title: 'Category',
@@ -28,7 +33,7 @@ export default {
             title: 'Body',
             name: 'body',
             type: 'array',
-            of: [{type: 'block'}]
+            of: [{type: 'block'}, {type: 'bodyImage'}]
         }
     ]
     
