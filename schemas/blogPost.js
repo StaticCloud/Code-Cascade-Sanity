@@ -33,7 +33,7 @@ export default {
             title: 'Body',
             name: 'body',
             type: 'array',
-            of: [{type: 'block'}, {type: 'bodyImage'}]
+            of: [{type: 'block'}, {type: 'bodyImage'},{type: 'codeSnippet'}]
         }
     ]
     
