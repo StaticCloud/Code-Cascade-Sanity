@@ -1,9 +1,22 @@
-# Sanity Clean Content Studio
+<div>
+<h1>Code Cascade (Backend Code) 🌲</h1>
 
-Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
+<img src="https://img.shields.io/github/license/StaticCloud/Code-Cascade-Sanity?color=blue&style=for-the-badge"/>
 
-Now you can do the following things:
+<h1>Links 🚪</h1>
+<h3><a href="https://github.com/StaticCloud/Code-Cascade">Frontend Code</a></h3>
 
-- [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
-- [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
-- [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
+<h1>Tech Stack 💻</h1>
+<img src="https://img.shields.io/badge/Next-000000.svg?style=for-the-badge&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/Sanity-F03E2F.svg?style=for-the-badge&logo=sanity&logoColor=white">
+
+<h1>About 📖</h1>
+<h3>Code Cascade is a web development blog made for developers of all skill levels. Code Cascade covers various categories related to web development. Users can search by category, under the articles page, and read easily understandable and informative blog posts related to their favorite web development topic.</h3>
+
+<h1>License ⚖️</h1>
+<h3>This project is licensed under the MIT license. <a href="https://github.com/StaticCloud/Code-Cascade-Sanity/blob/main/LICENSE.txt">Read more here.</a></h3>
+
+<br/>
+<p>Made with ❤️ by StaticCloud</p>
+
+</div>
